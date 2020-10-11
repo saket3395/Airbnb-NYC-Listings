@@ -11,4 +11,4 @@ Best prediction model for price i.e relationship between the price and other fac
 Travelers and Hosts using Airbnb
 
 ### Dataset <br>
-The dataset which we have used over here is New York City Airbnb Open Data. The dataset is available on kaggle. It has 16 columns and 48895 rows.
+The dataset which we have used over here is New York City Airbnb Open Data. The dataset is available on kaggle. It has 16 columns and 48895 rows. The link for the dataset is https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
